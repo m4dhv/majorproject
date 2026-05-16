@@ -225,3 +225,4 @@ def generate_receipt_pdf(
     return output_path
  
  
+ 
